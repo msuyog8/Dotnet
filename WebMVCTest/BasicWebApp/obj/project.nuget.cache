@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Ba/E1BZV/iWdqOJN5kuXqh4Lktbf8uMqxh0KlL5qTlFbmzf1V8A18ERmxib0KijWpb9fMbJGON6XxZud9Jh7w==",
+  "success": true,
+  "projectFilePath": "D:\\DAC0922\\Coding Samples\\DotNet\\DotNet\\Web\\WebMVCTest\\BasicWebApp\\BasicWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dac2\\.nuget\\packages\\met.tourism\\1.0.0\\met.tourism.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
