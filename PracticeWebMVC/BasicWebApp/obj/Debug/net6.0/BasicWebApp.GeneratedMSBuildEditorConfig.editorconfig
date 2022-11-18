@@ -1,0 +1,24 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BasicWebApp
+build_property.RootNamespace = BasicWebApp
+build_property.ProjectDir = D:\DAC0922\Coding Samples\DotNet\DotNet\Web\PracticeWebMVC\BasicWebApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\DAC0922\Coding Samples\DotNet\DotNet\Web\PracticeWebMVC\BasicWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/DAC0922/Coding Samples/DotNet/DotNet/Web/PracticeWebMVC/BasicWebApp/Views/Home/Finance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaW5hbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAC0922/Coding Samples/DotNet/DotNet/Web/PracticeWebMVC/BasicWebApp/Views/Home/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
