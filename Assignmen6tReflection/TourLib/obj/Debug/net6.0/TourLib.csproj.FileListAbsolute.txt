@@ -1,0 +1,12 @@
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentReflection\TourLib\obj\Debug\net6.0\TourLib.csproj.AssemblyReference.cache
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentReflection\TourLib\obj\Debug\net6.0\TourLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentReflection\TourLib\obj\Debug\net6.0\TourLib.AssemblyInfoInputs.cache
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentReflection\TourLib\obj\Debug\net6.0\TourLib.AssemblyInfo.cs
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentReflection\TourLib\obj\Debug\net6.0\TourLib.csproj.CoreCompileInputs.cache
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentReflection\TourLib\bin\Debug\net6.0\TourLib.deps.json
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentReflection\TourLib\bin\Debug\net6.0\TourLib.dll
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentReflection\TourLib\bin\Debug\net6.0\TourLib.pdb
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentReflection\TourLib\obj\Debug\net6.0\TourLib.dll
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentReflection\TourLib\obj\Debug\net6.0\refint\TourLib.dll
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentReflection\TourLib\obj\Debug\net6.0\TourLib.pdb
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentReflection\TourLib\obj\Debug\net6.0\ref\TourLib.dll

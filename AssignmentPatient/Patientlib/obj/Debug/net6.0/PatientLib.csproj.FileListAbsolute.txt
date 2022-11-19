@@ -1,0 +1,12 @@
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentPatient\PatientLib\obj\Debug\net6.0\PatientLib.csproj.AssemblyReference.cache
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentPatient\PatientLib\obj\Debug\net6.0\PatientLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentPatient\PatientLib\obj\Debug\net6.0\PatientLib.AssemblyInfoInputs.cache
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentPatient\PatientLib\obj\Debug\net6.0\PatientLib.AssemblyInfo.cs
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentPatient\PatientLib\obj\Debug\net6.0\PatientLib.csproj.CoreCompileInputs.cache
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentPatient\PatientLib\bin\Debug\net6.0\PatientLib.deps.json
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentPatient\PatientLib\bin\Debug\net6.0\PatientLib.dll
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentPatient\PatientLib\bin\Debug\net6.0\PatientLib.pdb
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentPatient\PatientLib\obj\Debug\net6.0\PatientLib.dll
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentPatient\PatientLib\obj\Debug\net6.0\refint\PatientLib.dll
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentPatient\PatientLib\obj\Debug\net6.0\PatientLib.pdb
+D:\DAC0922\Coding Samples\DotNet\Assignments\AssignmentPatient\PatientLib\obj\Debug\net6.0\ref\PatientLib.dll
